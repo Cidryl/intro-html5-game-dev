@@ -1,0 +1,50 @@
+Comunidad en español:
+	https://deideaaapp.org/
+	
+quintus
+	http://www.html5quintus.com/
+	
+<script src='http://cdn.html5quintus.com/v0.2.0/quintus-all.js'></script>
+
+
+How to Make a Mario-style Platformer with Phaser 3
+	https://gamedevacademy.org/how-to-make-a-mario-style-platformer-with-phaser-3/
+
+How to Make a Tower Defense Game with Phaser 3
+	https://gamedevacademy.org/how-to-make-tower-defense-game-with-phaser-3/
+	
+How to Create a Phaser MMORPG – Part 1
+	https://phasertutorials.com/how-to-create-a-phaser-3-mmorpg-part-1/
+	
+Tiled
+	https://www.mapeditor.org/
+	
+TexturePackage
+	https://www.codeandweb.com/texturepacker
+	
+Audios
+	https://www.audacityteam.org/
+	
+	
+https://developer.amazon.com/
+
+https://developer.amazon.com/apps-and-games/services-and-apis
+
+propiedades
+	agregar type 0, 1....
+	collision true
+	
+ObjectLayer
+	Player
+		propiedades
+			Class Player
+			
+	Enemy
+		propiedades
+			Class GroundEnemy
+			sheet blue-alien
+			
+background1
+	propiedades
+		boundingBox true
+	
